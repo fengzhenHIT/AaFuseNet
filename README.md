@@ -1,2 +1,5 @@
 # AaFuseNet
-This repository is used for Asymmetric RGB-Thermal Fusion Network for Seantic Segmentation of Driving Scenes
+This repository is used for ***Asymmetric RGB-Thermal Fusion Network for Seantic Segmentation of Driving Scenes***
+
+The code is coming soon!
+
